@@ -1,0 +1,1 @@
+He aquí un blog donde escribo sobre el machine learning y el deep learning, además de otros temas de interés.
